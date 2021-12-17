@@ -38,7 +38,7 @@ main p{
     color: rgba(255, 255, 255, .5);
 }
 
-main div a{
+main a{
     height: 35px;
     width: 90px;
     display: flex;
